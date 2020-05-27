@@ -34,8 +34,8 @@ p {
 
 
 img {margin: 30px;
-    position: absolute;
-    float: right;}
+    position: relative;
+}
 
 .rainbow_text {
     background-image: linear-gradient(to left,  violet, indigo, blue, green, yellow, orange, red); -webkit-background-clip: text;
