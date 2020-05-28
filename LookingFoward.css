@@ -24,9 +24,7 @@ p {
 
 .bodyObject {
     width: 50%;
-    height: 300px;
     font-size: 30px;
-    position: absolute;
 }
 
 .bodyObjectpadding {
@@ -43,13 +41,13 @@ img {margin: 30px;
     color: transparent;
     position: relative;
   }
-  .aboutWrapper { width: 100%; height: 100vh; position: absolute; cursor: pointer;}
 
   .navWrapper {
     width:100%; 
-    height: 160px; 
+    height: 120px; 
     background: grey; 
     display:-webkit-box;
+    cursor:pointer;
 }
 
 .navWrapper_1 {
